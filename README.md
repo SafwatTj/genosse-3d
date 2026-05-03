@@ -26,5 +26,5 @@
 
 ### 📫 Kontakt
 
-- LinkedIn: [dein Link]
+
 - E-Mail: safwat1@web.de
